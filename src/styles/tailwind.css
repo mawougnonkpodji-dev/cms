@@ -1,0 +1,7 @@
+@import 'tailwindcss' source(none);
+@source '../app/App.tsx';
+@source '../app/pages/**/*.{js,ts,jsx,tsx}';
+@source '../app/components/layout/**/*.{js,ts,jsx,tsx}';
+@source '../app/components/sections/**/*.{js,ts,jsx,tsx}';
+@source '../app/components/shared/**/*.{js,ts,jsx,tsx}';
+@source '../app/components/effects/**/*.{js,ts,jsx,tsx}';
