@@ -21,7 +21,7 @@ export function HeroSection() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 pb-14 lg:pb-20 w-full">
         <div className="max-w-2xl">
-          <p className="label-caps text-white/80 text-xs mb-4">Communauté des Servants de Messe — Bénin</p>
+          <p className="label-caps text-white/80 text-xs mb-4">Communauté des Servants de Messe - Mission de Banamè</p>
           {current && (
             <h1
               key={heroSlide}
@@ -36,7 +36,7 @@ export function HeroSection() {
               to="/communaute"
               className="inline-flex items-center gap-2 px-6 py-3 bg-accent hover:bg-accent/90 text-accent-foreground font-semibold text-sm rounded-md transition-colors"
             >
-              Découvrir la CSM <ArrowRight className="w-4 h-4" aria-hidden="true" />
+              Découvrir la Communauté des Servants de Messe  <ArrowRight className="w-4 h-4" aria-hidden="true" />
             </Link>
             <Link
               to="/evenements"

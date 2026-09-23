@@ -25,13 +25,13 @@ export function DonateSection() {
   return (
     <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-start mt-8">
       <div className="lg:sticky lg:top-24">
-        <p className="label-caps text-accent text-xs mb-3">Soutenir la mission</p>
+        <p className="label-caps text-accent text-xs mb-3">Soutenir la CMS</p>
         <h1 className="font-serif text-3xl lg:text-4xl font-semibold mb-4 text-foreground">
           Votre générosité fait la différence
         </h1>
         <p className="text-muted-foreground leading-relaxed mb-6 text-sm max-w-lg">
           Chaque don contribue à la formation des jeunes servants, aux retraites spirituelles et au développement de
-          la communauté dans tous les diocèses du Bénin.
+          la communauté dans tous les diocèses.
         </p>
 
         <div className="bg-secondary rounded-lg p-5 mb-6 border border-border">

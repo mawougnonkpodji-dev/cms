@@ -25,7 +25,7 @@ export function CommunitySection() {
               <p className="font-serif text-sm italic text-white/90 leading-relaxed">
                 « Servir à l'autel, c'est servir le Christ lui-même. »
               </p>
-              <footer className="label-caps text-white/70 text-[10px] mt-2">— Saint Tarcisius</footer>
+              <footer className="label-caps text-white/70 text-[10px] mt-2">- Saint Tarcisius</footer>
             </blockquote>
           </div>
 
